@@ -1,4 +1,4 @@
-## Dev Environment
+## PHP/ Static HTML Dev Environment
 
 - Install Laravel Valet (https://github.com/laravel/valet)
 - Create a local directory for projects at ~/Sites
