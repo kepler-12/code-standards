@@ -8,7 +8,6 @@ module.exports = {
     "parserOptions": {
         "ecmaFeatures": {
             "experimentalObjectRestSpread": true,
-            "jsx": true
         },
         "sourceType": "module"
     },
@@ -31,6 +30,7 @@ module.exports = {
         "semi": [
             "error",
             "always"
-        ]
+        ],
+        "vue/jsx-uses-vars": 2,
     }
 };
